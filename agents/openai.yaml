@@ -1,0 +1,4 @@
+interface:
+  display_name: "周报生成"
+  short_description: "扫描本周 git 提交，按模板生成周报并写入钉钉个人周报文档"
+  default_prompt: "帮我写本周周报，写入钉钉周报文件夹"
